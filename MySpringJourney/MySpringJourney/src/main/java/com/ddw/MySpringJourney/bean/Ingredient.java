@@ -1,4 +1,4 @@
-package com.ddw.MySpringJourney;
+package com.ddw.MySpringJourney.bean;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
